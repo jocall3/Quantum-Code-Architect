@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Code Architect",
+  "description": "An adaptive learning tool that provides deep technical analysis and pseudocode for quantum finance algorithms. The AI generates new, relevant research topics after each analysis, creating a personalized and ever-evolving curriculum for developers and researchers.",
+  "requestFramePermissions": []
+}
